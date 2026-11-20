@@ -1,8 +1,8 @@
-# \# Automated RADET Data Quality \& Performance Dashboard
+# \## Automated RADET Data Quality \& Performance Dashboard
 
 # 
 
-# \## Project Overview
+# \### Project Overview
 
 # An Excel and Power Query solution designed to automate data-quality checks, identify records requiring corrective action, and monitor reporting performance across health facilities.
 
@@ -12,7 +12,7 @@
 
 # 
 
-# \## Key Features
+# \### Key Features
 
 # \- 12 automated data-quality checks
 
@@ -30,7 +30,7 @@
 
 # 
 
-# \## Dashboard Results
+# \### Dashboard Results
 
 # | Indicator | Result |
 
@@ -46,7 +46,7 @@
 
 # 
 
-# \## Tools
+# \### Tools
 
 # \- Microsoft Excel
 
@@ -56,13 +56,13 @@
 
 # 
 
-# \## Validation
+# \### Validation
 
 # The solution was tested by introducing an abnormal ARV refill duration into a synthetic record. Refreshing the data successfully updated the dashboard and Resolution Line List. The test value was subsequently restored.
 
 # 
 
-# \## Future Enhancements
+# \### Future Enhancements
 
 # \- SRT-level reporting
 
@@ -72,7 +72,7 @@
 
 # 
 
-# \## Data Privacy
+# \### Data Privacy
 
 # All records and facilities are fictional. This project is intended for demonstration and portfolio purposes.
 
