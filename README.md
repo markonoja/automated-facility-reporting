@@ -1,13 +1,16 @@
-# \## Automated RADET Data Quality \& Performance Dashboard
+## Automated RADET Data Quality \& Performance Dashboard
 
-# 
 
-# \### Project Overview
 
-# An Excel and Power Query solution designed to automate data-quality checks, identify records requiring corrective action, and monitor reporting performance across health facilities.
+### Project Overview
 
-# 
+# Automated RADET Data Quality & Performance Dashboard
 
+## Project Overview
+
+An Excel and Power Query solution designed to automate data-quality checks, identify records requiring corrective action, and monitor reporting performance across health facilities.
+
+## Key Features
 # The project uses \*\*300 synthetic RADET records across 10 fictional facilities\*\*. No real patient information is included.
 
 # 
