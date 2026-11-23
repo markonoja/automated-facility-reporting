@@ -44,3 +44,7 @@ The solution was tested by introducing an abnormal ARV refill duration into a sy
 ## Data Privacy
 
 All records and facilities are fictional. This project is intended for demonstration and portfolio purposes.
+
+## Dashboard Preview
+
+![RADET Data Quality Dashboard](RADET_Dashboard_Preview.png)
